@@ -1,2 +1,3 @@
+http://example.com/manifest.json
 http://example.com/post/undefined.html
 http://example.com/
